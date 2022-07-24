@@ -1,0 +1,19 @@
+{
+    "name": "06tut",
+    "version": "1.0.0",
+    "description": "Express JS tutorial",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server",
+        "dev": "nodemon server"
+    },
+    "author": "Samuel Kiroko",
+    "license": "ISC",
+    "dependencies": {
+        "date-fns": "^2.23.0",
+        "uuid": "^8.3.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}

@@ -1,0 +1,4 @@
+20222117	14:21:32	67de5f18-ccff-4aed-8424-e496ee872d75	Log event emitted20222217	14:22:02	aa468f15-6f1d-4cb1-a1ac-f79fcd5d9fbc	Log event emitted20222317	14:23:28	ffa289a2-74c6-4771-af95-39376c4aac4b	Log event emitted
+20222717	14:27:14	f5080d46-82ab-4a06-bb88-bd1a734f4aea	Log event 
+20220724	15:07:12	fbaacd30-113e-433d-8b8a-78423f257f4d	Log event 
+20220724	15:07:45	b47c1e49-d0eb-45bb-8a4b-37bdd7865b7a	Log event 
